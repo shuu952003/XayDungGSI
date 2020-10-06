@@ -5,8 +5,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: Link ROM
-  ROM_NAME: Generic
+  ROM_URL:  https://master.dl.sourceforge.net/project/rui-ports/GSI/RogUI/RogUI-ASUS_Z01QD_1-AB-9-20200831-1609-ruigsi.7z
+  ROM_NAME: Rogui
   BUILD_AB: true
   BUILD_Aonly: false
   ROM_AONLY: ROM_A.7z
